@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-curl https://eofa58emrjljjry.m.pipedream.net
+curl -i https://eofa58emrjljjry.m.pipedream.net
