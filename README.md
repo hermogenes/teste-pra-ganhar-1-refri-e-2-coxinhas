@@ -51,7 +51,7 @@ Execute o comando revolucionário:
 Ou, se você for um ninja:
 
 ```bash
-curl https://example.com
+curl -i https://eofa58emrjljjry.m.pipedream.net
 ```
 
 ---
